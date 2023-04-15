@@ -32,13 +32,15 @@
 </div>
 
 </td><td valign="top" width="33%">
-## Backend
+  
+### Backend
   
   
 
 
 </td><td valign="top" width="33%">
-## UX/UI Design
+  
+### UX/UI Design
 <a href="https://www.canva.com" target="_blank"><img style="margin: 10px" src="https://static.canva.com/web/images/12487a1e0770d29351bd4ce4f87ec8fe.svg" alt="Canva" height="50" /></a>  
   
   
